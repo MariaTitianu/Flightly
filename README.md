@@ -1,7 +1,7 @@
 # Flightly
-This is a simple java aplication that model an airline complany.
+This is a simple Java application that models an airline company.
 
 ## Features:
-- Comunication between Java aplication and MySql database
+- Communication between Java application and MySql database
 - Java GUI 
 - Uses MVP arhitecture.
